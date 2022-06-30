@@ -41,6 +41,14 @@ h1{
     color: hsl(316, 50%, 24%);
 }
 
+.group{
+    text-align: center;
+    justify-content: space-around;
+    display: flex;
+    margin: 10px 10px;
+    
+}
+
 .title{
     
 }
