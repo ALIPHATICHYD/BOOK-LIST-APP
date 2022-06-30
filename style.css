@@ -12,3 +12,16 @@ body{
     background-color: hsl(217, 54%, 11%);
 } 
 
+/* Header */
+h1{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 50px;
+    left: 850px;
+    color: #fff;
+    font-weight: bolder;
+    font-size: 100px;
+}
+
