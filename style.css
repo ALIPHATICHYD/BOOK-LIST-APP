@@ -70,3 +70,10 @@ label{
     width: 500px;
     height: 50px;
 }
+
+.AB{
+    background-color: hsl(316, 50%, 24%);
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+}
