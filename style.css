@@ -28,3 +28,15 @@ h1{
 .my{
     color: hsl(316, 50%, 24%);
 }
+
+/* Form */
+#form{
+    text-align: start;
+    justify-content: flex-start;
+    position: absolute;
+    top: 150px;
+    left: 100px;
+    font-weight: bold;
+    font-size: 50px;
+    color: hsl(316, 50%, 24%);
+}
